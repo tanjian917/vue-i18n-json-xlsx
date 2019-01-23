@@ -37,7 +37,7 @@ node index.js lpath=~/src/language xlsxpath=~/Desktop/data.xlsx
 
 ## xlsx转json
 ```
-node index.js type=2 lpath=~/src/language xlsxpath=~/Desktop/data.xlsx
+node index.js type=2 lpath=~/src/language xlsxpath=~/Desktop/data.xlsx format=false
 ```
 
 
